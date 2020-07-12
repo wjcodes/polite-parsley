@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/hero.svg
+    image: images/IMG_20200710_121214.jpg
     image_position: right
     has_background: true
     background:

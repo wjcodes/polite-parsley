@@ -16,7 +16,7 @@ sections:
     align: center
     image: images/IMG_20200710_121214.jpg
     image_position: right
-    has_background: false
+    has_background: true
     background:
       background_color: gray
       background_image: images/diagonal-lines.svg
